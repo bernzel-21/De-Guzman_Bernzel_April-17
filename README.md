@@ -1,1 +1,2 @@
-# De-Guzman_Bernzel_April-17
+# Naive-Bayes-Classifier
+Zero Conditional Probability Problem (Zero Frequency) and Smoothing Techniques
